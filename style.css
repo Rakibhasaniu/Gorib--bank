@@ -11,13 +11,13 @@ body{
      display: none;
  }   
  .deposite{
-     background-color: slateblue;
+     background-color: rgb(212, 134, 212);
  }
  .withdraw{
-    background-color: lightsalmon;
+    background-color: rgb(62, 147, 173);
  }
  .balance{
-     background-color: orange;
+     background-color: rgb(102, 216, 87);
  }
  .status{
      margin: 0 20px;
